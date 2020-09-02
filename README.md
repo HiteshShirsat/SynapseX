@@ -10,7 +10,8 @@ install -g nodemon
 nodemon app
 mysql -u root -p
 copy paste sql in command from api folder
-
+database=dp
+tables used=patient,doctor
 
 ---for ui setup-----
 cd ui
